@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 <h1>Goals</h1>
 
-  <img height="125px" src="https://user-images.githubusercontent.com/106281614/209710274-67eb60a2-f822-412a-9462-f7d32b579e60.gif" align="left">
+  <img height="100px" src="https://user-images.githubusercontent.com/106281614/209710274-67eb60a2-f822-412a-9462-f7d32b579e60.gif" align="left">
 
   <div align="right">
   
@@ -39,23 +39,6 @@ ________________________________________________________________________________
 <h1>📫 Contact</h1>
   <img width="100%" height="200px" src="https://user-images.githubusercontent.com/106281614/209713821-8c786d3a-7b83-4c12-a90f-a6ccd73a7334.gif">
 
-  <div align="center">[📫Gmail: ZeyadMohamed.BUS.ACC@Gmail.com, 💼WUZZUF: https://wuzzuf.net/me/Zeyad-Mohamed-0299ee3188, 💻LinkedIn: Soon...]</div>
+  <div align="center">📫Gmail: ZeyadMohamed.BUS.ACC@Gmail.com, 💼WUZZUF: https://wuzzuf.net/me/Zeyad-Mohamed-0299ee3188, 💻LinkedIn: Soon...</div>
 
 ________________________________________________________________________________________________________________________________________________________
-
-<!--
-<a href="https://wuzzuf.net/me/Zeyad-Mohamed-0299ee3188">WUZZUF</a>
-https://wuzzuf.net/me/Zeyad-Mohamed-0299ee3188
-**ZeyadMohamed1805/ZeyadMohamed1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
