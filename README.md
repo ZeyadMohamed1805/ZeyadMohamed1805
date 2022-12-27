@@ -1,4 +1,4 @@
-<div style="background-image: url(./assets/Github\ Image.jpg); background-position: center; background-repeat: no-repeat; background-size: cover;">
+<div style="background-image: url(./assets/Github Image.jpg); background-position: center; background-repeat: no-repeat; background-size: cover;">
     <h1 style="color: silver;">Zeyad Mohamed</h1>
     <h3 style="color: silver;">Frontend Developer</h3>
 </div>
