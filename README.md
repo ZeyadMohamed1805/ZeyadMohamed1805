@@ -1,4 +1,4 @@
-<img src="./assets/Github Image.jpg">
+<img src="./assets/Github Image.jpg" style="width: 100%">
 <h1>Zeyad Mohamed</h1>
 <h3>Frontend Developer</h3>
 
