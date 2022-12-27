@@ -1,6 +1,10 @@
-<img src="./assets/Github Image.jpg" style="width: 100%; position: absolute; top: 0;">
-<h1>Zeyad Mohamed</h1>
-<h3>Frontend Developer</h3>
+<div style="display: flex;">
+    <div>
+        <h1>Zeyad Mohamed</h1>
+        <h3>Frontend Developer</h3>
+    </div>
+    <img src="./assets/Github Image.jpg">
+</div>
 
 <!--
 **ZeyadMohamed1805/ZeyadMohamed1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
