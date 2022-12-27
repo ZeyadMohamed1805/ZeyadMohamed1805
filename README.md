@@ -1,6 +1,7 @@
-<div style="text-align: center;">
+<div>
   <img src="./assets/Github.jpg">
-  <p style="text-align: center;">Welcome to my Profile!😄 I'm a Management Information System student at Alexandria University. I'm deeply passionate about coding & I      actively upload my newest achievements so please check them out!</p>
+  <p align="center">Welcome to my Profile!😄 I'm a Management Information System student at Alexandria University. I'm deeply passionate about coding & I actively upload my newest achievements so please check them out!
+  </p>
 </div>
 
 <!--
