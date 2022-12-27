@@ -1,9 +1,6 @@
-<div style="display: flex;">
-    <div>
-        <h1>Zeyad Mohamed</h1>
-        <h3>Frontend Developer</h3>
-    </div>
-    <img src="./assets/Github Image.jpg">
+<div>
+    <h1>Zeyad Mohamed <img src="./assets/Github Image.jpg"></h1>
+    <h3>Frontend Developer</h3>
 </div>
 
 <!--
