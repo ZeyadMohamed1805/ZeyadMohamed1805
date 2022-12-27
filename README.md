@@ -3,7 +3,6 @@
   <p align="center">Welcome to my Profile!😄 I'm a Management Information System 📊 student at Alexandria University 🏫. I'm deeply passionate about coding 💻 & I actively upload my newest achievements🏆 Please check them out! 😁
   </p>
 </div> 
-________________________________________________________________________________________________________________________________________________________
 
 <h1>Activities</h1>
   <img width="200px" max-height="200px" src="https://user-images.githubusercontent.com/106281614/209711536-2617de60-1bca-43d9-9fc5-60cdcb217e1a.gif" align="right">
@@ -40,5 +39,3 @@ ________________________________________________________________________________
   <img width="100%" height="200px" src="https://user-images.githubusercontent.com/106281614/209713821-8c786d3a-7b83-4c12-a90f-a6ccd73a7334.gif">
 
   <div align="center">📫Gmail: ZeyadMohamed.BUS.ACC@Gmail.com, 💼WUZZUF: https://wuzzuf.net/me/Zeyad-Mohamed-0299ee3188, 💻LinkedIn: Soon...</div>
-
-________________________________________________________________________________________________________________________________________________________
