@@ -17,7 +17,7 @@
 
   <div align="left">
   
-  -  I’m looking forward to get my first job as a Frontend Developer (My <a href="https://drive.google.com/file/d/1DBfkJarhIh6BaYJYDlQlQo0OENeNLdAh/view?  usp=share_link"> CV / Resume</a> & <a href="https://wuzzuf.net/me/Zeyad-Mohamed-0299ee3188">WUZZUF Profile</a>) 💼
+  -  I’m looking forward to get my first job as a Frontend Developer (My <a href="https://drive.google.com/file/d/1SvVGIqGu8XmnJnMFhdfO5yj6npllfx3p/view?usp=sharing"> CV / Resume</a> & <a href="https://wuzzuf.net/me/Zeyad-Mohamed-0299ee3188">WUZZUF Profile</a>) 💼
   -  Deeply study other programming field (Android & IOS Development, Data Analysis, Cyber Security, etc.) 📖
   -  Gain Work Experience in multiple corporations. 🔝
   -  Sharing my knowledge with everyone who needs it. 👨‍🎓
